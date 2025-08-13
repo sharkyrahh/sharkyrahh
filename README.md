@@ -4,9 +4,9 @@
 
 <body>
   <h1 align="center">︵‿︵‿୨♡୧‿︵‿︵‿︵‿୨♡୧‿︵‿︵‿︵‿୨♡୧‿︵‿︵</h1>
-<h2 align="center">♡Hi, I'm Kira.♡</h2>
-<p align="center">
-<ul align="center">
+<h2>♡Hi, I'm Kira.♡</h2>
+<p>
+<ul">
   <li>nice to meet you! ^__^</li>
   <li>from malaysia</li>
   <li>final year student</li>
@@ -16,8 +16,8 @@
 </p>
 <hr>
   
-<h2 align="center">♡Languages & Tools♡</h2>
-<p align="center">
+<h2>♡Languages & Tools♡</h2>
+<p>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -30,16 +30,6 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 </p>
-
-<div align="center">
-  
-
-# 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&link=linkedin.com%2Fshakira-abdullah)
-
-
-</div>
-
 
 
 </body>
