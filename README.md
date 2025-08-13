@@ -3,7 +3,7 @@
 </head>
 
 <body>
-  <h1 align="center">︵‿︵‿୨♡୧‿︵‿︵‿︵‿୨♡୧‿︵‿︵‿︵‿୨♡୧‿︵‿︵</h1>
+  <h1>︵‿︵‿୨♡୧‿︵‿</h1>
 <h2>♡Hi, I'm Kira.♡</h2>
 <p>
 <ul">
@@ -14,7 +14,6 @@
   <li>universiti teknologi malaysia (UTM)</li>
 </ul>
 </p>
-<hr>
   
 <h2>♡Languages & Tools♡</h2>
 <p>
